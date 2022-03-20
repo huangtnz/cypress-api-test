@@ -1,0 +1,22 @@
+{
+  "name": "cypress-api-test",
+  "version": "1.0.0",
+  "description": "cypress api test for https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangtnz/cypress-api-test.git"
+  },
+  "author": "Tian Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangtnz/cypress-api-test/issues"
+  },
+  "homepage": "https://github.com/huangtnz/cypress-api-test#readme",
+  "devDependencies": {
+    "cypress": "^9.5.2"
+  }
+}
